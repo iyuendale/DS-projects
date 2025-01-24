@@ -10,3 +10,4 @@ Credit_card_transaction/credit_card_transactions.csv
 /Customer Segmentation in the US/dashboard/.ipynb_checkpoints
 /Customer Segmentation in the US/__pycache__
 /Customer Segmentation in the US/assets/.ipynb_checkpoints
+*.csv
